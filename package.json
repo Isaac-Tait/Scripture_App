@@ -1,0 +1,28 @@
+{
+  "name": "scripture-reading-app",
+  "version": "1.0.0",
+  "description": "A unique bible reading plan originally envisioned by Professor Horner in the 1980's",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaac-Tait/Scripture_App.git"
+  },
+  "keywords": [
+    "scripture",
+    "bible",
+    "reading",
+    "plan",
+    "christian",
+    "Jesus",
+    "God"
+  ],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Isaac-Tait/Scripture_App/issues"
+  },
+  "homepage": "https://github.com/Isaac-Tait/Scripture_App#readme"
+}
