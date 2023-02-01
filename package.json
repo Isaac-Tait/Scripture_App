@@ -27,7 +27,7 @@
   "homepage": "https://github.com/Isaac-Tait/Scripture_App#readme",
   "dependencies": {
     "gatsby": "^2.19.18",
-    "mongoose": "^5.9.1",
+    "mongoose": "^5.13.15",
     "node": "^13.8.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
